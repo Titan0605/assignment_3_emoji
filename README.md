@@ -26,7 +26,7 @@ This project demonstrates several important programming concepts:
 ## Project Structure
 
 ```
-emoji-eye-tracker/
+assignment_3_emoji/
 ├── index.html          # Main HTML structure
 ├── face-styles.css     # Styling and responsive design
 ├── eyes-tracking.js    # Eye tracking logic implementation
