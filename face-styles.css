@@ -59,15 +59,15 @@ body {
 
 .eyes {
   position: absolute;
-  top: 30%;
-  width: 60%;
+  top: 25%;
+  width: 70%;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
 .eye {
-  width: 28%;
+  width: 40%;
   height: 0;
   padding-bottom: 42%;
   background: #000;
